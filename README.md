@@ -7,6 +7,7 @@ Interactive Power BI dashboard analyzing Uber ride bookings, revenue, cancellati
 
 🎯 Project Objectives
 The objective of this project is to analyze Uber ride-booking data using Power BI to identify trends in bookings, revenue, cancellations, vehicle demand, customer preferences, and operational performance, enabling data-driven business insights.
+
 ---
 
 📁 Dataset used
@@ -34,6 +35,7 @@ Represents the total distance covered across the rides.
 5. Total Booking Value
 **222.07K**
 Represents the total value generated from the ride bookings.
+
 ---
 
 📊 Dashboard Visualizations
@@ -51,6 +53,7 @@ Fields
 Purpose
 Shows the distribution of payment methods used by customers.
 This helps identify the most commonly preferred payment options.
+
 ---
 
 2. Bookings by Vehicle Type
@@ -63,6 +66,7 @@ Fields
 Purpose
 Compares the number of bookings across different vehicle types.
 This helps identify which vehicle categories receive the highest demand.
+
 ---
 
 3. Ride Booking Status Distribution
@@ -74,6 +78,7 @@ Fields
 
 Purpose
 Shows the monthly booking trend and helps identify periods of higher and lower ride demand.
+
 ---
 
 4. Driver Ride Cancellation Reasons
@@ -132,12 +137,14 @@ Allows users to analyze completed, cancelled, incomplete, and other booking stat
 Month
 Allows users to analyze ride performance for a specific month.
 
+Booking Date
+Allows users to select a specific date range.
+
 Payment Method
 Allows analysis of customer payment preferences.
 
-Booking Date
-Allows users to select a specific date range.
 ---
+
 💡 Project Insights
 The analysis provides insights into ride demand, booking completion, customer cancellations, vehicle preferences, payment behavior, operational issues, and revenue trends. These insights can help identify areas for improving ride completion, reducing cancellations, and optimizing overall booking performance.
 
