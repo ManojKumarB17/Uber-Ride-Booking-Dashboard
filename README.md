@@ -37,6 +37,7 @@ Represents the total value generated from the ride bookings.
 ---
 
 📊 Dashboard Visualizations
+
 <a href ="https://github.com/ManojKumarB17/Uber-Ride-Booking-Dashboard/blob/main/Screenshot%202026-09-01%20102933.png">view dashboard</a>
 
 1. Preferred Payment Methods
@@ -112,6 +113,8 @@ This helps identify:
 - Relationship between bookings and revenue
 
 ---
+<img width="1247" height="705" alt="Screenshot 2026-09-01 102933" src="https://github.com/user-attachments/assets/7f2f67aa-ce77-4009-9b34-60802b2928fb" />
+
 
 🎛️ Interactive Filters
 
